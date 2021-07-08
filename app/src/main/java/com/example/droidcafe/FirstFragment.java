@@ -54,12 +54,5 @@ public class FirstFragment extends Fragment {
         binding = null;
     }
 
-    public void showFroyoOrder(View view) {
-    }
 
-    public void showDonutOrder(View view) {
-    }
-
-    public void showIceCreamOrder(View view) {
-    }
 }

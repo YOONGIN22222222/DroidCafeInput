@@ -81,16 +81,16 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void showFroyoOrder(View view) {
+        displayToast(getString(R.string.froyo_order_message));
     }
 
     public void showDonutOrder(View view) {
+        displayToast(getString(R.string.donut_order_message));
     }
 
     public void showIceCreamOrder(View view) {
+        displayToast(getString(R.string.ice_cream_order_message));
     }
 
-    /**
-     * Shows a message that the donut image was clicked.
-     */
 
 }
