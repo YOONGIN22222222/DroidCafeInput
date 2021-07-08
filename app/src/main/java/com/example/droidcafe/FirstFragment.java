@@ -37,17 +37,7 @@ public class FirstFragment extends Fragment {
             }
         });
     }
-//    public void showDonutOrder(View view) {
-//        displayToast(getString(R.string.donut_order_message));
-//    }
-//
-//    public void showIceCreamOrder(View view) {
-//        displayToast(getString(R.string.ice_cream_order_message));
-//    }
-//
-//    public void showFroyoOrder(View view) {
-//        displayToast(getString(R.string.froyo_order_message));
-//    }
+
     @Override
     public void onDestroyView() {
         super.onDestroyView();
